@@ -1,0 +1,199 @@
+{
+  "repository": "SRAI_Book_09_AI_Transformation_and_Executive_Leadership",
+  "production_unit": "PU-B09-C01",
+  "candidate_version": "0.2",
+  "status": "PASS",
+  "file_count": 38,
+  "files": [
+    {
+      "path": ".gitignore",
+      "size_bytes": 235,
+      "sha256": "5045197823050d6320e62f5607723a20812e1af9c239a51cc5ddb679cdfd1530"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 737,
+      "sha256": "e88edf369ef3231c9260b55112c21471303ebe52661d1b69bdfc0c38bacd3098"
+    },
+    {
+      "path": "production-units/PU-B09-C01/README.md",
+      "size_bytes": 1106,
+      "sha256": "9e95ce081ac33bd53f28564dcbfb82e6a057639ed01ace98138fbbbcb01c9ab2"
+    },
+    {
+      "path": "production-units/PU-B09-C01/assessment/PU-B09-C01_Exercises_and_Solutions_v0.2.docx",
+      "size_bytes": 40929,
+      "sha256": "abf23e7c81fa1fd03da3957ccab5f7ff0933aba9c65199497444b8f482a8cbcb"
+    },
+    {
+      "path": "production-units/PU-B09-C01/assessment/PU-B09-C01_Exercises_and_Solutions_v0.2.pdf",
+      "size_bytes": 129129,
+      "sha256": "4dfced672b7bb8394a7080720228653e3a51e82ec3f670c124ad2fd5e0276b3d"
+    },
+    {
+      "path": "production-units/PU-B09-C01/evidence/MANIFEST.json",
+      "size_bytes": 6345,
+      "sha256": "d1a9a25ee99b95eaa79ecd82c5833341e54b298161a9bdc45578c9b769dfa1be"
+    },
+    {
+      "path": "production-units/PU-B09-C01/evidence/NOTEBOOK_EXECUTION_REPORT.json",
+      "size_bytes": 293,
+      "sha256": "d5efe82ea81ab0fdf01511f0c0b12dd76de74ed00488a8d61f2a1673cb78dbec"
+    },
+    {
+      "path": "production-units/PU-B09-C01/evidence/PUBLICATION_CHECKLIST.md",
+      "size_bytes": 583,
+      "sha256": "213270fcc2c895feb5857e5ce7a26fa11c1d36f51a7b811dd39d43826b6452d0"
+    },
+    {
+      "path": "production-units/PU-B09-C01/evidence/RIGHTS_AND_DISCLOSURES.md",
+      "size_bytes": 474,
+      "sha256": "8719350fbae4e4f30ed27554aea1a2d44a32e29a4ab44b1edc78f3aa9315c95f"
+    },
+    {
+      "path": "production-units/PU-B09-C01/evidence/VALIDATION_REPORT.json",
+      "size_bytes": 735,
+      "sha256": "f10ade54aa804c4ea5f7797bfb3b202b34d293e4133986df8b7768f9027e45fc"
+    },
+    {
+      "path": "production-units/PU-B09-C01/evidence/VISUAL_QA_REPORT.json",
+      "size_bytes": 567,
+      "sha256": "b0cb9bbd350f457b3de71221561318fdbe061ec14268188b994af96ac9bf00d4"
+    },
+    {
+      "path": "production-units/PU-B09-C01/executive/PU-B09-C01_Executive_Brief_v0.2.docx",
+      "size_bytes": 39390,
+      "sha256": "b5412d0fc00607e17f2b76ff43f2f8993373e6e495e65cead5104a1a0bc0cfae"
+    },
+    {
+      "path": "production-units/PU-B09-C01/executive/PU-B09-C01_Executive_Brief_v0.2.pdf",
+      "size_bytes": 80825,
+      "sha256": "f711da92d09a66ae650b6fc0ca53364961a3b50cbcf3cf345b7a25c6f554e310"
+    },
+    {
+      "path": "production-units/PU-B09-C01/github/CITATION.cff",
+      "size_bytes": 249,
+      "sha256": "9d8a572fcc79b912ac7f36c63cf73ec0e2a7b91c9ee8349590c25fd432215111"
+    },
+    {
+      "path": "production-units/PU-B09-C01/github/README.md",
+      "size_bytes": 785,
+      "sha256": "643d7566a6bef0dccfd3b10ccda66b444267294c7d29582bf5d2c9168fae632c"
+    },
+    {
+      "path": "production-units/PU-B09-C01/github/RELEASE_NOTES_v0.2.md",
+      "size_bytes": 344,
+      "sha256": "7be84bd45cb6feec38ea02fe81e85059cb372c02df0991d23adb09495d689874"
+    },
+    {
+      "path": "production-units/PU-B09-C01/lesson/PU-B09-C01_AI_Strategy_and_Transformation_Lesson_v0.1.docx",
+      "size_bytes": 194162,
+      "sha256": "4c5d11ce1c5e101d6c3da4d01cd90e126d1622be155402e303441af84177bf50"
+    },
+    {
+      "path": "production-units/PU-B09-C01/lesson/PU-B09-C01_AI_Strategy_and_Transformation_Lesson_v0.1.pdf",
+      "size_bytes": 526031,
+      "sha256": "e6961ec8210ffb3783cc05565e12c3335dc839a19fd2c194445e95856af16b02"
+    },
+    {
+      "path": "production-units/PU-B09-C01/linkedin/PU-B09-C01_LinkedIn_Article_v0.2.md",
+      "size_bytes": 857,
+      "sha256": "b6da8836801cc21299bc8bc7967b0c9be503f3d224f1e898c8dd070a2a669958"
+    },
+    {
+      "path": "production-units/PU-B09-C01/linkedin/PU-B09-C01_LinkedIn_Post_v0.2.md",
+      "size_bytes": 652,
+      "sha256": "3d918fe1817e7b622f63bdd0b590a1d8968280900286a618aa789195c0045e2c"
+    },
+    {
+      "path": "production-units/PU-B09-C01/notebook/PU-B09-C01_AI_Strategy_and_Transformation_Notebook_v0.1.ipynb",
+      "size_bytes": 288804,
+      "sha256": "0f985e0081a67b6f1723a5c9b2dc82c3df46032fb5b89c51c9fd76c75880ca90"
+    },
+    {
+      "path": "production-units/PU-B09-C01/notebook_outputs/decision_record.json",
+      "size_bytes": 156,
+      "sha256": "09ba4e109fecb01292e85214949789f99feb3757c7d3d64205d344be3814c3c5"
+    },
+    {
+      "path": "production-units/PU-B09-C01/notebook_outputs/portfolio_dashboard.csv",
+      "size_bytes": 682,
+      "sha256": "28c56d3f4297cc6f27e1c84b9ee6f7bd51ff1339b0502d764f8e2a0d9468dcd3"
+    },
+    {
+      "path": "production-units/PU-B09-C01/notebook_outputs/readiness_profile.csv",
+      "size_bytes": 545,
+      "sha256": "b727448a3042bb298d0b4cee1c2d365df05afa01c92965f0b0f93886c2bc805f"
+    },
+    {
+      "path": "production-units/PU-B09-C01/notebook_outputs/transformation_roadmap.csv",
+      "size_bytes": 391,
+      "sha256": "17c8b0b4b433b4519116f61702ec1e09ace8ce676fecf207fd9cb560ee87fd1d"
+    },
+    {
+      "path": "production-units/PU-B09-C01/slides/PU-B09-C01_Lesson_Presentation_v0.2.pptx",
+      "size_bytes": 397878,
+      "sha256": "a7f4880cb247cc0db0e677186cec70fbba80b2be9a5c424a9910b42df1265970"
+    },
+    {
+      "path": "production-units/PU-B09-C01/slides/PU-B09-C01_Narration_Script_v0.2.md",
+      "size_bytes": 6172,
+      "sha256": "fdf828271bcaae195e170535689b319f0e8257ea025e8df9fbc246d271508e62"
+    },
+    {
+      "path": "production-units/PU-B09-C01/slides/slide_content.json",
+      "size_bytes": 10050,
+      "sha256": "faed4957404a8a853d603b679a18290e2a427677b933ffdd7cbce3f551702b08"
+    },
+    {
+      "path": "production-units/PU-B09-C01/video/PU-B09-C01_Captions_v0.2.vtt",
+      "size_bytes": 5828,
+      "sha256": "72a61936688d0aefc6b4e7447186ee4640074b7deb2d23e1ad8a432fb3fffd9c"
+    },
+    {
+      "path": "production-units/PU-B09-C01/video/PU-B09-C01_Video_Production_Guide_v0.2.md",
+      "size_bytes": 369,
+      "sha256": "bbf025695e7cb077c315baf32710e26b6bfc5db36b555a08b74d94afa67a2840"
+    },
+    {
+      "path": "production-units/PU-B09-C01/video/PU-B09-C01_Video_Run_Sheet_v0.2.csv",
+      "size_bytes": 2160,
+      "sha256": "fcbf9581eb27bf9533451cd491c6313c46d948fff7219b869eae15a0e29ce131"
+    },
+    {
+      "path": "production-units/PU-B09-C01/video/PU-B09-C01_YouTube_Metadata_v0.2.md",
+      "size_bytes": 795,
+      "sha256": "4f33cf7235f93ede34d96ca1154dff7b9dfdadd8ed0b39f590b4a46d2aa19daa"
+    },
+    {
+      "path": "production-units/PU-B09-C01/video/PU-B09-C01_YouTube_Thumbnail_v0.2.png",
+      "size_bytes": 37284,
+      "sha256": "7f35a7e25385f7dcf67db565c4368da07ba5bf08c2f18f2cc19417305a8439ea"
+    },
+    {
+      "path": "production-units/PU-B09-C01/website/0001_publish_pu_b09_c01.py",
+      "size_bytes": 525,
+      "sha256": "a673a8e2d3d0c2e1538efee5b634a5c0663f4dfaa91f0934dfa66230eaf3b3d8"
+    },
+    {
+      "path": "production-units/PU-B09-C01/website/PU-B09-C01_Integration_Guide_v0.2.md",
+      "size_bytes": 480,
+      "sha256": "c8d4d05030facc1f02ab3e5ad838cde6595238692717e0231b8b78ff5d8ac3ce"
+    },
+    {
+      "path": "production-units/PU-B09-C01/website/PU-B09-C01_Website_Payload_v0.2.json",
+      "size_bytes": 674,
+      "sha256": "95d6f776a9219ba14e3bac388f0f20684768dfb75f35028dbc2c589b978c691a"
+    },
+    {
+      "path": "production-units/PU-B09-C01/website/pu-b09-c01.html",
+      "size_bytes": 553,
+      "sha256": "2264266052e66921b92fed96a27c57d99f5e873cb670e93fe66c37a4fa525fa3"
+    },
+    {
+      "path": "production-units/PU-B09-C01/website/test_pu_b09_c01.py",
+      "size_bytes": 346,
+      "sha256": "ec4a60f9537cf7f7234521349a117b83e45bd22b0ad1d9e3ab4fe8e6920e6489"
+    }
+  ]
+}
