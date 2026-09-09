@@ -1,0 +1,7 @@
+initiative,weighted_score,eligible,portfolio_class,p05,p95,top_rank_probability
+Quality anomaly triage,4.16,True,quick evidence,3.9858221702423813,4.31622959376625,0.2545
+Controlled document search,4.244,True,enabler,4.076214728846883,4.410049729913826,0.7455
+Autonomous eligibility decisions,2.8080000000000007,False,defer or prohibit,2.655619669163476,2.9701143467818434,0.0
+Enumerator support assistant,3.7960000000000003,True,quick evidence,3.619728898682633,3.959799852359106,0.0
+Food-loss forecasting,3.4219999999999997,True,strategic bet,3.247675487281596,3.5938165775209443,0.0
+General staff chatbot,3.7319999999999998,True,enabler,3.5632050119048175,3.8992400662818665,0.0

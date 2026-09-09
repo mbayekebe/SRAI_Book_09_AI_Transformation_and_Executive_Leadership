@@ -1,0 +1,25 @@
+{
+  "production_unit": "PU-B09-C01",
+  "candidate_version": "0.2",
+  "validation_status": "PASS",
+  "verified_file_count": 36,
+  "checks": {
+    "lesson_pages_at_least_38": true,
+    "notebook_execution": "22 of 22 code cells PASS",
+    "assessment_exercises": 15,
+    "presentation_slides": 30,
+    "speaker_notes": 30,
+    "document_accessibility": "PASS",
+    "slide_overflow": "PASS",
+    "rights_and_synthetic_data_disclosure": "PASS",
+    "manifest_and_checksums": "PASS"
+  },
+  "publication_holds": [
+    "Author approval",
+    "Verified GitHub destination and tag",
+    "Verified website journey",
+    "Verified YouTube playback and captions",
+    "Verified LinkedIn publication",
+    "Operations registry reconciliation"
+  ]
+}

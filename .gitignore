@@ -1,0 +1,22 @@
+# Python
++__pycache__/
++*.py[cod]
++.venv/
++venv/
++
++# Editors and operating systems
++.DS_Store
++Thumbs.db
++.idea/
++.vscode/
++
++# Secrets and local state
++.env
++*.sqlite3
++*.db
++media/
++staticfiles/
++
++# Generated video masters
++*.mp4
++

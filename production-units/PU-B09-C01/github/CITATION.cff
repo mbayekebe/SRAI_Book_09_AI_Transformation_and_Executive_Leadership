@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: AI Strategy and Transformation
+message: Please cite this production unit as follows.
+type: software
+authors:
+  - family-names: Kebe
+    given-names: Mbaye
+version: 0.2
+date-released: 2026-09-09
+license: All rights reserved

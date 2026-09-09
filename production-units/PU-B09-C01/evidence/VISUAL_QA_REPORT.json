@@ -1,0 +1,14 @@
+{
+  "production_unit": "PU-B09-C01",
+  "status": "PASS",
+  "lesson_pages": 39,
+  "assessment_pages": 9,
+  "executive_brief_pages": 3,
+  "slide_count": 30,
+  "slide_overflow_test": "PASS",
+  "lesson_accessibility_findings": 0,
+  "assessment_accessibility_findings": 0,
+  "executive_accessibility_findings": 0,
+  "inspection": "All lesson pages, assessment pages, executive brief pages and presentation slides rendered; contact sheets and individual lesson pages inspected. No clipping, overlap or malformed characters found.",
+  "verified_at": "2026-09-09T00:00:00Z"
+}
