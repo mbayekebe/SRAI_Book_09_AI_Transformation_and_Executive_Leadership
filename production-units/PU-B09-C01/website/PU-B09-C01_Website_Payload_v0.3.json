@@ -1,0 +1,21 @@
+{
+  "production_unit": "PU-B09-C01",
+  "book": 9,
+  "lesson": 1,
+  "title": "AI Strategy and Transformation",
+  "slug": "ai-strategy-and-transformation",
+  "summary": "Translate AI ambition into an evidence-backed, governed transformation portfolio.",
+  "status": "publication_candidate",
+  "version": "0.3",
+  "youtube_url": "https://youtu.be/FbCCa5NwXfc",
+  "youtube_video_id": "FbCCa5NwXfc",
+  "video_duration": "00:22:22",
+  "notebook": "PU-B09-C01_AI_Strategy_and_Transformation_Notebook_v0.1.ipynb",
+  "learning_outcomes": [
+    "Frame an institutional transformation thesis",
+    "Assess use-case readiness",
+    "Prioritize a governed AI portfolio",
+    "Design evidence gates and decision records",
+    "Build an accountable operating model"
+  ]
+}

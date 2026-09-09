@@ -1,0 +1,13 @@
+{
+  "production_unit": "PU-B09-C01",
+  "asset_version": "0.3",
+  "status": "PASS",
+  "slide_count": 30,
+  "slides_with_notes": 30,
+  "total_narration_words": 2479,
+  "minimum_note_words": 61,
+  "maximum_note_words": 115,
+  "rendering": "PASS",
+  "overflow_test": "PASS",
+  "purpose": "Replace the v0.2 presentation and narration sources after author-requested audience-facing speaker-note expansion."
+}
